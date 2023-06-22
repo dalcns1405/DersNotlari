@@ -1,0 +1,11 @@
+2)genel doğruluk oranım 72.7709 % şeklinde.
+5)TP Rate  FP Rate
+0,366    0,053 
+0,947    0,634 
+
+6)birinci değerimizde TP oranımız düşük doğruluk orenımız iyi değil,ikincisinde TP oranımız
+daha basarılı bir sonuç vermistir.
+
+10)model1 de basarı oranımız daha düşükken model2 de basarı oranım artmıs bulunmakta.boost ile budama yapılmıs uç 
+noktalar temizlenmis olup daha iyi bir sonuç vermistir.
+ 

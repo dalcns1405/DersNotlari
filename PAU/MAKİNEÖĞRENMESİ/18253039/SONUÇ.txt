@@ -1,0 +1,3 @@
+Sonuç olarak her iki veri modelininde test sonucu aynı basarıyı yakalamıstır.
+30 değerden 22 doğru tahmin basarılı bir sonuç .Ancak ilk modelimizin ikinci modelimize göre basarı oranı daha fazla düşmüştür.
+Her iki modelin de confusion matrisine baktığımızda a ile ilgili bir tahmin veya sonuç görmemekteyiz, b'lerin hiçbirini doğru tahmin edilmemiş, c için yapılan tahminlerin de tamamının doğru olduğunu görmekteyiz.
